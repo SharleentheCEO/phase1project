@@ -29,33 +29,41 @@ The primary source of data for this project is the NTSB aviation accident databa
 ### Visualizations
 Here are the key visualizations that summarize our findings:
 
-1. *Injury Severity*  
-   ![Injury Severity]  C:\Users\Administrator\Documents\Flatiron\project\phase1project\phaseofflight.png
-   Description: This visualization shows the distribution of injury severity across different aircraft makes and models and also broad phase of flight. It highlights  the rates of severe injuries from the highest injury sverity to lowest.
+1. *Injury Severity*   
+   ![Injury Severity]  
+   Description: This visualization shows the distribution of injury severity across different aircraft makes and also broad phase of flight. It highlights  the rates of severe injuries from the highest injury sverity to lowest.
+( C:\Users\Administrator\Documents\Flatiron\project\phase1project\phaseofflight.png)
+(C:\Users\Administrator\Documents\Flatiron\project\phase1project\aircraftmake.png)
 
-2. *Aircraft Make and Models*  
+3. *Aircraft Make and Models*  
    ![Aircraft Make and Models] 
    Description: This chart analyzes the aircraft make and models that are frequently involved in accidents.
+ (C:\Users\Administrator\Documents\Flatiron\project\phase1project\aircraftmakesandmodels.png)
 
-3. *Aircraft Category*  
+5. *Aircraft Category*  
    ![Aircraft Category]  
    Description: The visualization shows the aircraft category that is most frequently involved in accidents .
+(C:\Users\Administrator\Documents\Flatiron\project\phase1project\aircraftcategory.png)
 
-4. *Aircraft damage and number of injuries (either fatal, seriuos, minor or uninjured)*
+6. *Aircraft damage and number of injuries (either fatal, seriuos, minor or uninjured)*
     ![aircraft damage and number of injuries (either fatal, seriuos, minor or uninjured)]
     Description: by visualising both aircraft damage and number of injuries together, one can easily identify whether higher damage correlates with a greater number of injuries.
+(C:\Users\Administrator\Downloads\newplot (4).png)
 
-5. *Engine type*
+8. *Engine type*
     ![Engine type]
     Description: it helps to identify which engine type contribute the most to the accidents, allowing for focused safety improvements.
+(C:\Users\Administrator\Downloads\newplot (3).png)
 
-6. *Number of engines*
+9. *Number of engines*
     ![Number of engines]
-    Description: this visualisation helps in understanding whether multi-engine or single-engine aircrafts are associated with more injuries. 
+    Description: this visualisation helps in understanding whether multi-engine or single-engine aircrafts are associated with more injuries.
+   (C:\Users\Administrator\Documents\Flatiron\project\phase1project\numberofengines.png)
+   
 ## Conclusion
 
 ### Summary of Conclusions
-1. *Injury Severity*: Specific aircraft makes and models have been identified as having significantly lower injury severity rates making them more suitable for purchase.Also, the phase of flights has played an important in this.
+1. *Injury Severity*: Specific aircraft makes have been identified as having significantly lower injury severity rates making them more suitable for purchase.Also, the phase of flights has played an important in this.
 2. *Aircraft Make and Models*: Some aircraft makes and models have frequently been involved in accidents hence making them less suitable for purchase. 
 3. *Aircraft Category*: Historical data trends indicate the most frequently involved aircrafts.The more the number of accidents the less suitable it is for purchase. 
 4. *aircraft damage and number of injuries (either fatal, seriuos, minor or uninjured)*:The aircraft damage correlates with the number and type of injuries. The more the damage the more the injuries hence making them less suitable for purchase.
