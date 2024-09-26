@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project aims to analyze aviation accident data from the National Transportation Safety Board (NTSB) to help our company select low-risk aircraft for business use. By examining data from 1962 to 2023, we provide insights into injury sverity, phases of flights, aircraft category, aircraft damage, number of injuries (either fatal, seriuos, minor or uninjured), engine types, number of engines across various aircraft models and makes.
+This project aims to analyze aviation accident data from the National Transportation Safety Board (NTSB) to help our company select low-risk aircraft for business use. By examining data from 1962 to 2023, we provide insights into injury severity, phases of flights, aircraft category, aircraft damage, number of injuries (either fatal, seriuos, minor or uninjured), engine types, number of engines across various aircraft models and makes.
 
 ## Business Understanding
 
@@ -41,7 +41,7 @@ Here are the key visualizations that summarize our findings:
    ![Aircraft Category]  
    Description: The visualization shows the aircraft category that is most frequently involved in accidents .
 
-4. *Aircraft damage and number of injuries (either fatal, seriuos, minor or uninjured)*
+4. *Aircraft damage and number of injuries (either fatal, seriuos, minor or uninjured)*aircraft.png
     ![aircraft damage and number of injuries (either fatal, seriuos, minor or uninjured)]
     Description: by visualising both aircraft damage and number of injuries together, one can easily identify whether higher damage correlates with a greater number of injuries.
 
