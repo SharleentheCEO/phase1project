@@ -30,7 +30,7 @@ The primary source of data for this project is the NTSB aviation accident databa
 Here are the key visualizations that summarize our findings:
 
 1. *Injury Severity*  
-   ![Injury Severity]  
+   ![Injury Severity]  C:\Users\Administrator\Documents\Flatiron\project\phase1project\phaseofflight.png
    Description: This visualization shows the distribution of injury severity across different aircraft makes and models and also broad phase of flight. It highlights  the rates of severe injuries from the highest injury sverity to lowest.
 
 2. *Aircraft Make and Models*  
@@ -41,7 +41,7 @@ Here are the key visualizations that summarize our findings:
    ![Aircraft Category]  
    Description: The visualization shows the aircraft category that is most frequently involved in accidents .
 
-4. *Aircraft damage and number of injuries (either fatal, seriuos, minor or uninjured)*aircraft.png
+4. *Aircraft damage and number of injuries (either fatal, seriuos, minor or uninjured)*
     ![aircraft damage and number of injuries (either fatal, seriuos, minor or uninjured)]
     Description: by visualising both aircraft damage and number of injuries together, one can easily identify whether higher damage correlates with a greater number of injuries.
 
